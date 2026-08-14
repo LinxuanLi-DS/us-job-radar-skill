@@ -1,0 +1,47 @@
+{
+  "candidate": {
+    "name": "Example Candidate",
+    "current_location": "San Francisco Bay Area, California",
+    "expected_graduation": "2027-12",
+    "student_status": "F-1 example; replace with your status",
+    "internship_authorization": "CPT example; replace with your authorization",
+    "post_graduation_authorization": "OPT example; replace with your authorization and sponsorship needs",
+    "availability_note": "Start date is flexible when compatible with school and work authorization requirements"
+  },
+  "role_priorities": [
+    {"family": "data-engineering", "weight": 1.0, "titles": ["Data Engineer", "Data Development Engineer", "Data Platform Engineer", "Analytics Engineer", "ETL Developer", "Data Warehouse Engineer", "Big Data Engineer"]},
+    {"family": "data-analytics", "weight": 0.95, "titles": ["Data Analyst", "Business Data Analyst", "Product Data Analyst", "BI Engineer", "Business Intelligence Analyst", "Operations Analyst", "Supply Chain Data Analyst"]},
+    {"family": "ai-agent-llm", "weight": 0.9, "titles": ["AI Engineer", "LLM Engineer", "Agent Engineer", "Applied AI Engineer", "NLP Engineer", "Machine Learning Engineer"]},
+    {"family": "algorithm", "weight": 0.8, "titles": ["Algorithm Engineer", "Applied Scientist", "Data Scientist", "Machine Learning Scientist"]},
+    {"family": "software-engineering", "weight": 0.7, "titles": ["Software Engineer", "Backend Engineer", "Platform Engineer", "Software Development Engineer"]}
+  ],
+  "recruiting_windows": [
+    {"name": "Fall 2026 Co-op", "start": "2026-08-01", "end": "2026-12-31", "types": ["co-op", "intern"]},
+    {"name": "Winter 2027 Internship", "start": "2027-01-01", "end": "2027-04-30", "types": ["intern", "co-op"]},
+    {"name": "Summer 2027 Internship", "start": "2027-05-01", "end": "2027-08-31", "types": ["intern"]},
+    {"name": "Late 2027 / 2028 New Grad", "start": "2027-12-01", "end": "2028-09-30", "types": ["full-time", "new-grad"]}
+  ],
+  "location_preferences": {
+    "top": ["San Jose", "Santa Clara", "Sunnyvale", "Mountain View", "Palo Alto", "Cupertino", "San Francisco", "San Mateo", "Redwood City", "Fremont", "Bay Area"],
+    "preferred": ["California", "Remote - US", "United States Remote"],
+    "acceptable": ["United States"],
+    "small_company_outside_california_penalty": 8,
+    "mid_large_outside_california_penalty": 0
+  },
+  "industry_exclusions": [],
+  "compensation": {
+    "minimum": null,
+    "unpaid_allowed_only_if_score_at_least": 80
+  },
+  "skills": [
+    "Python", "SQL", "R", "pandas", "NumPy", "scikit-learn", "PyTorch", "Transformers", "Git", "Docker", "Streamlit", "Tableau", "Power BI", "GCP", "Flink SQL", "Trino", "Presto", "LakeSoul", "ETL", "CDC", "data quality", "data lineage", "ODS", "DWD", "ADS", "RAG", "BM25", "embedding", "vector retrieval", "RRF", "Text-to-SQL", "LoRA", "NLP", "time series", "classification", "clustering", "supply chain analytics"
+  ],
+  "hard_exclusions": {
+    "seniority_terms": ["Staff", "Senior Staff", "Principal", "Lead", "Manager", "Director", "Head of", "Vice President"],
+    "authorization_terms": ["US citizen only", "U.S. citizen only", "must be a US citizen", "permanent residents only", "no sponsorship", "will not sponsor"],
+    "clearance_terms": ["active security clearance", "TS/SCI", "Secret clearance required"]
+  },
+  "default_scan_hours": 72,
+  "high_match_threshold": 80,
+  "review_threshold": 65
+}

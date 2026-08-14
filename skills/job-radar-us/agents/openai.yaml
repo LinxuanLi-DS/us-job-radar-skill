@@ -1,0 +1,4 @@
+interface:
+  display_name: "US Job Radar"
+  short_description: "Scan US company careers and rank new matching roles"
+  default_prompt: "Use $job-radar-us to scan my target companies for newly posted, high-match roles."

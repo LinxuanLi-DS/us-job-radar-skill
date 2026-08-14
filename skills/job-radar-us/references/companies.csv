@@ -1,0 +1,201 @@
+id,tier,company,focus,geo_hint,portfolio_version,status
+1,small,Perplexity,AI search;RAG;data products,San Francisco CA,original,review
+2,small,Glean,enterprise search;RAG;AI platform,Palo Alto CA,original,review
+3,small,Harvey,legal AI;LLM applications,San Francisco CA,original,review
+4,small,Sierra,AI agents;enterprise applications,San Francisco CA,original,review
+5,small,Anysphere (Cursor),AI developer tools;LLM applications,San Francisco CA,original,review
+6,small,Cognition,software agents;AI infrastructure,San Francisco CA,original,review
+7,small,Abridge,healthcare NLP;ML evaluation,US,original,review
+8,small,Hippocratic AI,healthcare AI;LLM safety,Palo Alto CA,original,review
+9,small,Runway,generative video;ML data,US,original,review
+10,small,Pika,generative video;AI product data,Palo Alto CA,original,review
+11,small,Pinecone,vector database;RAG,New York or remote,original,review
+12,small,Weights & Biases,MLOps;model evaluation,San Francisco CA,original,review
+13,small,Arize AI,ML observability;LLM evaluation,Berkeley CA,original,review
+14,small,Modal,AI cloud;model serving,New York or remote,original,review
+15,small,Anyscale,distributed AI;Ray,San Francisco CA,original,review
+16,small,Fireworks AI,LLM inference;AI platform,Redwood City CA,original,review
+17,small,Together AI,AI cloud;open models,San Francisco CA,original,review
+18,small,Baseten,model deployment;MLOps,San Francisco CA,original,review
+19,small,Tecton,feature platform;ML infrastructure,San Francisco CA,original,review
+20,small,MotherDuck,cloud analytics;DuckDB,Seattle or remote,original,review
+21,small,Hex,data analytics;notebooks,San Francisco CA,original,review
+22,small,Hightouch,reverse ETL;data activation,San Francisco CA,original,review
+23,small,Census,reverse ETL;data integration,San Francisco CA,original,review
+24,small,Monte Carlo,data observability;quality,San Francisco CA,original,review
+25,small,Dagster Labs,data orchestration;data assets,US remote,original,review
+26,small,Prefect,workflow orchestration;Python,US remote,original,review
+27,small,Astronomer,Airflow;data orchestration,US,original,review
+28,small,LangChain,LLM agents;RAG,San Francisco CA,original,review
+29,small,LlamaIndex,RAG;data framework,San Francisco CA,original,review
+30,small,Mercury,fintech;product data,San Francisco CA,original,review
+31,small,Decagon,customer support agents;LLM applications,San Francisco CA,expanded,review
+32,small,Snorkel AI,data-centric AI;ML platform,Redwood City CA,expanded,review
+33,small,Cleanlab,data quality;ML reliability,San Francisco CA,expanded,review
+34,small,Galileo,LLM evaluation;AI observability,San Francisco CA,expanded,review
+35,small,Patronus AI,LLM evaluation;AI safety,San Francisco CA,expanded,review
+36,small,Braintrust,AI evaluation;observability,San Francisco CA,expanded,review
+37,small,Unstructured,document ETL;RAG,San Francisco CA,expanded,review
+38,small,Chroma,vector database;AI retrieval,San Francisco CA,expanded,review
+39,small,Zilliz,vector database;Milvus,Redwood City CA,expanded,review
+40,small,Onehouse,lakehouse;data infrastructure,Sunnyvale CA,expanded,review
+41,small,Materialize,streaming SQL;data platform,US,expanded,review
+42,small,Firebolt,cloud data warehouse;SQL,San Francisco CA,expanded,review
+43,small,RisingWave Labs,stream processing;SQL,San Francisco CA,expanded,review
+44,small,PlanetScale,database platform;developer tools,US remote,expanded,review
+45,small,Supabase,database platform;developer tools,US remote,expanded,review
+46,small,Observe,observability;data platform,San Mateo CA,expanded,review
+47,small,Honeycomb,observability;data engineering,San Francisco CA,expanded,review
+48,small,Acceldata,data observability;quality,Campbell CA,expanded,review
+49,small,Rill Data,operational analytics;BI,San Francisco CA,expanded,review
+50,small,Omni,BI;semantic layer,San Francisco CA,expanded,review
+51,small,Fiddler AI,model monitoring;responsible AI,Palo Alto CA,expanded,review
+52,small,WhyLabs,AI observability;data quality,Seattle WA,expanded,review
+53,small,E2B,AI agent infrastructure;cloud sandboxes,San Francisco CA,expanded,review
+54,small,Replicate,model APIs;AI infrastructure,San Francisco CA,expanded,review
+55,small,OpenRouter,LLM routing;AI platform,San Francisco CA,expanded,review
+56,small,Replit,AI coding;developer platform,Foster City CA,expanded,review
+57,small,Augment Code,AI coding;developer tools,Palo Alto CA,expanded,review
+58,small,Factory,software agents;AI development,San Francisco CA,expanded,review
+59,small,Vannevar Labs,defense AI;data platforms,Palo Alto CA,expanded,review
+60,small,Abacus.AI,enterprise AI;ML platform,San Francisco CA,expanded,review
+61,mid,Anthropic,foundation models;AI safety,San Francisco CA,original,review
+62,mid,Scale AI,AI data;model evaluation,San Francisco CA,original,review
+63,mid,Cloudflare,cloud platform;network data,US,original,review
+64,mid,MongoDB,database;developer platform,US,original,review
+65,mid,Confluent,streaming data;Flink,US,original,review
+66,mid,Elastic,search;observability,US,original,review
+67,mid,Datadog,cloud observability;data platform,US,original,review
+68,mid,Samsara,IoT;logistics analytics,San Francisco CA,original,review
+69,mid,Okta,identity security;data analytics,US,original,review
+70,mid,Twilio,communications cloud;data platform,US,original,review
+71,mid,HubSpot,CRM;product analytics,US,original,review
+72,mid,Zoom,collaboration;AI products,San Jose CA,original,review
+73,mid,Dropbox,cloud storage;product data,San Francisco CA,original,review
+74,mid,dbt Labs,analytics engineering;SQL,US remote,original,review
+75,mid,Notion,collaboration;AI products,San Francisco CA,original,review
+76,mid,Figma,design collaboration;product data,San Francisco CA,original,review
+77,mid,Rippling,HR and IT SaaS;automation,San Francisco CA,original,review
+78,mid,Plaid,financial data infrastructure,San Francisco CA,original,review
+79,mid,Brex,fintech;risk analytics,San Francisco CA,original,review
+80,mid,Ramp,fintech;AI automation,US,original,review
+81,mid,Coinbase,crypto;data platform,US remote,original,review
+82,mid,Robinhood,consumer finance;data science,Menlo Park CA,original,review
+83,mid,SoFi,fintech;credit risk,San Francisco CA,original,review
+84,mid,Duolingo,edtech;experimentation;NLP,US,original,review
+85,mid,Roblox,gaming;recommendation;data science,San Mateo CA,original,review
+86,mid,Grammarly,NLP;AI products,US,original,review
+87,mid,Toast,restaurant SaaS;fintech,US,original,review
+88,mid,Klaviyo,marketing data;analytics,US,original,review
+89,mid,GitLab,DevOps;product analytics,US remote,original,review
+90,mid,Flexport,logistics;data science,San Francisco CA,original,review
+91,mid,Cohere,foundation models;enterprise AI,US,expanded,review
+92,mid,Groq,AI inference;accelerators,Mountain View CA,expanded,review
+93,mid,Cerebras Systems,AI compute;ML systems,Sunnyvale CA,expanded,review
+94,mid,SambaNova Systems,AI systems;enterprise AI,Palo Alto CA,expanded,review
+95,mid,Lambda,AI cloud;GPU infrastructure,San Jose CA,expanded,review
+96,mid,CoreWeave,AI cloud;GPU infrastructure,US,expanded,review
+97,mid,Crusoe,AI cloud;data centers,San Francisco CA,expanded,review
+98,mid,Vercel,cloud platform;AI developer tools,San Francisco CA,expanded,review
+99,mid,Retool,internal tools;data applications,San Francisco CA,expanded,review
+100,mid,Sigma Computing,cloud analytics;BI,San Francisco CA,expanded,review
+101,mid,ThoughtSpot,analytics;AI BI,Mountain View CA,expanded,review
+102,mid,Alteryx,analytics automation;data science,California,expanded,review
+103,mid,Dataiku,enterprise AI;data science platform,US,expanded,review
+104,mid,DataRobot,enterprise AI;MLOps,US,expanded,review
+105,mid,Starburst,Trino;data lake analytics,US,expanded,review
+106,mid,ClickHouse,analytics database;SQL,US,expanded,review
+107,mid,Cockroach Labs,distributed database;cloud,US,expanded,review
+108,mid,Redis,database;AI infrastructure,US,expanded,review
+109,mid,Grafana Labs,observability;data platform,US remote,expanded,review
+110,mid,Cribl,observability pipelines;data engineering,US,expanded,review
+111,mid,Chronosphere,cloud observability;data platform,US,expanded,review
+112,mid,New Relic,observability;data platform,San Francisco CA,expanded,review
+113,mid,Dynatrace,observability;AI operations,US,expanded,review
+114,mid,Fastly,edge cloud;data platform,San Francisco CA,expanded,review
+115,mid,Box,cloud content;enterprise AI,Redwood City CA,expanded,review
+116,mid,Smartsheet,work management;product data,US,expanded,review
+117,mid,Miro,collaboration;product analytics,US,expanded,review
+118,mid,Airtable,data apps;product analytics,San Francisco CA,expanded,review
+119,mid,Affirm,fintech;credit risk;data science,San Francisco CA,expanded,review
+120,mid,Anduril,defense technology;AI;data platforms,California,expanded,review
+121,large,Google,search;cloud;AI,California,original,review
+122,large,Microsoft,cloud;enterprise software;AI,US,original,review
+123,large,Amazon / AWS,ecommerce;cloud;logistics,US,original,review
+124,large,Meta,social;ads;AI,California,original,review
+125,large,Apple,hardware;services;AI,Cupertino CA,original,review
+126,large,NVIDIA,AI computing;platform,California,original,review
+127,large,OpenAI,foundation models;AI products,San Francisco CA,original,review
+128,large,Databricks,lakehouse;data and AI,San Francisco CA,original,review
+129,large,Salesforce,CRM;enterprise AI,San Francisco CA,original,review
+130,large,Adobe,creative software;AI,San Jose CA,original,review
+131,large,Oracle,database;cloud,US,original,review
+132,large,IBM,enterprise technology;AI,US,original,review
+133,large,Cisco,networking;security;observability,San Jose CA,original,review
+134,large,Uber,mobility;marketplace data,San Francisco CA,original,review
+135,large,Airbnb,travel;marketplace data,San Francisco CA,original,review
+136,large,Stripe,payments;data infrastructure,South San Francisco CA,original,review
+137,large,Block,payments;fintech,US,original,review
+138,large,PayPal,payments;risk analytics,San Jose CA,original,review
+139,large,LinkedIn,professional network;recommendation,Sunnyvale CA,original,review
+140,large,Netflix,streaming;recommendation,Los Gatos CA,original,review
+141,large,Snowflake,cloud data platform,San Mateo CA,original,review
+142,large,Palantir,data platforms;AI,US,original,review
+143,large,ServiceNow,enterprise workflow;AI,Santa Clara CA,original,review
+144,large,Intuit,fintech;AI;product analytics,Mountain View CA,original,review
+145,large,Atlassian,collaboration;developer tools,US,original,review
+146,large,DoorDash,delivery;marketplace data,San Francisco CA,original,review
+147,large,Instacart,grocery;retail technology,San Francisco CA,original,review
+148,large,Pinterest,recommendation;ads;product data,San Francisco CA,original,review
+149,large,Reddit,community;recommendation;NLP,San Francisco CA,original,review
+150,large,Snap,social;AR;ML,California,original,review
+151,large,TikTok / ByteDance,content;recommendation;ecommerce,US,original,review
+152,large,Tesla,manufacturing;energy;AI,California,original,review
+153,large,Walmart Global Tech,retail;Supply Chain;data platform,Sunnyvale CA,original,review
+154,large,JPMorgan Chase,banking;data;AI,US,original,review
+155,large,Capital One,fintech;risk;data science,US,original,review
+156,large,Visa,payments;risk;data science,Foster City CA,original,review
+157,large,Mastercard,payments;risk;analytics,US,original,review
+158,large,Bloomberg,financial data;NLP,US,original,review
+159,large,Goldman Sachs,banking;data engineering;quant,US,original,review
+160,large,American Express,payments;credit risk;data,US,original,review
+161,large,AMD,semiconductors;AI compute,US,expanded,review
+162,large,Intel,semiconductors;data;AI,Santa Clara CA,expanded,review
+163,large,Qualcomm,semiconductors;edge AI,San Diego CA,expanded,review
+164,large,Broadcom,semiconductors;infrastructure software,San Jose CA,expanded,review
+165,large,Dell Technologies,enterprise infrastructure;data,US,expanded,review
+166,large,Hewlett Packard Enterprise,enterprise infrastructure;AI,San Jose CA,expanded,review
+167,large,Micron Technology,memory;manufacturing data,US,expanded,review
+168,large,Applied Materials,semiconductor equipment;manufacturing data,Santa Clara CA,expanded,review
+169,large,Lam Research,semiconductor equipment;data,Fremont CA,expanded,review
+170,large,KLA,semiconductor equipment;analytics,Milpitas CA,expanded,review
+171,large,Workday,enterprise SaaS;AI,Pleasanton CA,expanded,review
+172,large,SAP,enterprise software;data;AI,US,expanded,review
+173,large,Accenture,consulting;data;AI,US,expanded,review
+174,large,Deloitte,consulting;data;AI,US,expanded,review
+175,large,PwC,consulting;data;AI,US,expanded,review
+176,large,EY,consulting;data;AI,US,expanded,review
+177,large,McKinsey & Company,consulting;analytics;AI,US,expanded,review
+178,large,Boston Consulting Group,consulting;analytics;AI,US,expanded,review
+179,large,Target,retail;Supply Chain;data,US,expanded,review
+180,large,Costco,retail;operations;data,US,expanded,review
+181,large,Nike,retail;Supply Chain;analytics,US,expanded,review
+182,large,Starbucks,retail;Supply Chain;analytics,US,expanded,review
+183,large,FedEx,logistics;operations analytics,US,expanded,review
+184,large,UPS,logistics;data science,US,expanded,review
+185,large,United Airlines,aviation;operations analytics,US,expanded,review
+186,large,Delta Air Lines,aviation;operations analytics,US,expanded,review
+187,large,American Airlines,aviation;operations analytics,US,expanded,review
+188,large,Ford Motor Company,automotive;manufacturing data,US,expanded,review
+189,large,General Motors,automotive;data;AI,US,expanded,review
+190,large,Boeing,aerospace;data;software,US,expanded,review
+191,large,Lockheed Martin,aerospace;data;software,US,expanded,review
+192,large,Northrop Grumman,aerospace;data;software,US,expanded,review
+193,large,RTX,aerospace;data;software,US,expanded,review
+194,large,Disney,media;streaming;data,US,expanded,review
+195,large,Comcast,telecom;media;data,US,expanded,review
+196,large,Spotify,audio;recommendation;data,US,expanded,review
+197,large,Expedia Group,travel;marketplace data,US,expanded,review
+198,large,eBay,ecommerce;recommendation;data,San Jose CA,expanded,review
+199,large,Zillow,real estate;data science,US,expanded,review
+200,large,Wayfair,ecommerce;Supply Chain;data,US,expanded,review

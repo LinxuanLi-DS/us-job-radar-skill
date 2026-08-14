@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+job-radar-output/
+state.json
+profile.local.json
+*.local.csv
